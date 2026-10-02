@@ -1,0 +1,11 @@
+name: Submit a mod
+description: Suggest an original Claude Code mod or demo
+title: "[Mod] "
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Mod details and original source
+      description: Include name, source URL, what it does, setup, version, preview, and creator credit.
+    validations:
+      required: true
