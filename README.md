@@ -6,6 +6,10 @@ A curated collection of Claude Code mods and original creator demos.
 
 Public source means a repository and author setup instructions are linked. Demo only means a concrete demonstration was found, without a confirmed public install path. Entries are source-reviewed, not execution-tested or security-audited.
 
+## Install and troubleshoot
+
+New to mods? The [installation guide](https://ccmods.dev/guide/) covers marketplace setup and an official local sample. Already installed one? Use the [mod-not-working checklist](https://ccmods.dev/guide/#troubleshooting) to separate reload, version, display-surface, and loading problems. Examples follow original documentation; collected mod code has not been execution-tested.
+
 ## Contents
 
 - [Context](#context)
