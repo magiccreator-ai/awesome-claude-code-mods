@@ -10,6 +10,8 @@ Public source means a repository and author setup instructions are linked. Demo 
 
 New to mods? The [installation guide](https://ccmods.dev/guide/) covers marketplace setup and an official local sample. Already installed one? Use the [mod-not-working checklist](https://ccmods.dev/guide/#troubleshooting) to separate reload, version, display-surface, and loading problems. Examples follow original documentation; collected mod code has not been execution-tested.
 
+简体中文：[Claude Code Mods 安装与故障排查](https://ccmods.dev/zh/guide/) — 版本检查、市场安装、加载确认与界面排障。其余目录内容仍为英语。
+
 ## Contents
 
 - [Context](#context)
