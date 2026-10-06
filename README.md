@@ -14,6 +14,8 @@ New to mods? The [installation guide](https://ccmods.dev/guide/) covers marketpl
 
 Built-in feature: [You Should Know — enable, disable, and availability](https://ccmods.dev/guide/you-should-know/). A source-linked guide to the optional side-agent mod, including first-party session/telemetry conditions and the distinction from installed community mods.
 
+Choosing an extension: [Mods vs plugins, skills, hooks, and MCP](https://ccmods.dev/guide/mods-vs-plugins-skills-hooks/). Compare custom UI, reusable procedures, lifecycle automation, external tools, and plugin packaging through concrete scenarios.
+
 ## Contents
 
 - [Context](#context)
