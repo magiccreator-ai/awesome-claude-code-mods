@@ -32,13 +32,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Please include the original source, a de
 
 ### [Token Weather](https://ccmods.dev/mods/token-weather/)
 
-A weather forecast for your context window.
+Monitor Claude Code context usage above the prompt with Token Weather: a live percentage, token count, and 12-turn history.
 
-See your context fill and recent growth in a small band above the prompt. This sample turns session usage into an at-a-glance weather forecast.
+Token Weather is a source-published sample in Anthropic’s Claude Code playground. It draws a one-line context monitor above the prompt, using the session’s reported usage rather than a forecast of future requests. The display updates after each main-loop turn; it skips subagent turns.
 
 Token Weather may be useful during a long coding conversation when you want context usage visible without leaving the prompt. Its turn history helps you notice changes in the session footprint. Use those readings as session information, not as a prediction of how many future requests you can make.
 
-By Claude Code DevRel · **Public source** · Reviewed 2026-10-02
+By Claude Code DevRel · **Public source** · Reviewed 2026-10-07
 
 [![Token Weather creator preview](https://pbs.twimg.com/amplify_video_thumb/2105718793863643136/img/GRPpr0kErx8FGkEv.jpg)](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/token-weather)
 
