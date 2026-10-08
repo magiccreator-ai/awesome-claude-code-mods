@@ -186,19 +186,19 @@ By Pierre Goutheraud · **Public source** · Reviewed 2026-10-02
 
 [Original source](https://x.com/pgoutheraud/status/2105890249620525253) · [Repository & setup](https://github.com/pierregoutheraud/claude-mods)
 
-### [Multiplayer Doom](https://ccmods.dev/mods/multiplayer-doom/)
+### [Intermission — Multiplayer Doom](https://ccmods.dev/mods/multiplayer-doom/)
 
-Play Doom with other people waiting for Claude.
+Play multiplayer Doom inside Claude Code with Intermission. Source and setup for macOS 15+, Ghostty or kitty, and Claude Code 2.1.287+.
 
-Jarrod Watts demonstrates a mod that connects to a multiplayer Doom server while Claude is working. The other players are also waiting for their sessions to finish.
+Jarrod Watts’s Intermission opens a Doom deathmatch pane while Claude works, using Odamex and Freedoom maps. The author documents a two-second wait before opening, a three-second return countdown when Claude finishes, and an immediate return when Claude needs your input.
 
-This demonstration explores playing a game during the wait for a coding response. It is an example of an unexpected interface inside the Claude Code workspace and may inspire other waiting-time experiments. The original post is the place to follow the creator; no public installation route is confirmed here.
+For macOS users in Ghostty or kitty who want a game during a coding response, Intermission offers an in-session multiplayer break. Its documented return behavior helps you resume when Claude needs attention. Consider the game download and shared-server connection before choosing it; this is an entertainment mod, not a coding-speed improvement.
 
-By Jarrod Watts · **Demo only** · Reviewed 2026-10-02
+By Jarrod Watts · **Public source** · Reviewed 2026-10-08
 
-[![Multiplayer Doom creator preview](https://pbs.twimg.com/amplify_video_thumb/2105852510845992960/img/ZH-bVrdb7V2J7iN0.jpg)](https://x.com/jarrodwatts/status/2105858869482471602)
+[![Intermission — Multiplayer Doom creator preview](https://pbs.twimg.com/amplify_video_thumb/2105852510845992960/img/ZH-bVrdb7V2J7iN0.jpg)](https://x.com/jarrodwatts/status/2105858869482471602)
 
-[Original source](https://x.com/jarrodwatts/status/2105858869482471602)
+[Original source](https://x.com/jarrodwatts/status/2105858869482471602) · [Repository & setup](https://github.com/jarrodwatts/intermission)
 
 ## About
 
