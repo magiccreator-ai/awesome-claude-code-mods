@@ -16,6 +16,8 @@ Built-in feature: [You Should Know — enable, disable, and availability](https:
 
 Choosing an extension: [Mods vs plugins, skills, hooks, and MCP](https://ccmods.dev/guide/mods-vs-plugins-skills-hooks/). Compare custom UI, reusable procedures, lifecycle automation, external tools, and plugin packaging through concrete scenarios.
 
+Play while Claude works: [Claude Code game mods — Doom and Server Farm](https://ccmods.dev/categories/games/). Choose an active multiplayer break or an idle simulation, with creator-specific setup and display requirements.
+
 ## Contents
 
 - [Context](#context)
