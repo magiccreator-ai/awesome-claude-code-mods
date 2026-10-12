@@ -76,17 +76,17 @@ By Murat Can Yuksel · **Public source** · Reviewed 2026-10-02
 
 ### [Live Plan Progress](https://ccmods.dev/mods/live-plan-progress/)
 
-Track stages and parallel tasks as your plan runs.
+Follow Claude Code plans with live stage and step progress bars, subagent rows and sound cues. Includes plan-progress installation and display controls.
 
-The creator demonstrates a live plan progress interface built in one session, with stages, sounds, and several tasks displayed side by side.
+Kirill Serditov’s plan-progress mod draws a bar for each task above the Claude Code prompt. The current author README describes stages, steps, elapsed times and subagent rows, with sounds when a task needs input, encounters an error or finishes. Claude reports plan updates through a registered tool; the bars display that reported progress.
 
-This demonstration is relevant if you want a plan to remain visible while Claude carries out a task. A progress display can make an ongoing session easier to scan, particularly when several steps are involved. The creator post shows the idea; this listing does not confirm a public plugin or its configuration options.
+Use plan-progress when a task has several stages or subagents and you want its reported plan to stay visible while Claude works. It helps distinguish waiting for input from ongoing work. A filled bar reflects the plan updates Claude sends, so check the transcript and actual output when deciding whether the task is complete.
 
-By Кирилл Сердитов · **Demo only** · Reviewed 2026-10-02
+By Kirill Serditov · **Public source** · Reviewed 2026-10-12
 
 [![Live Plan Progress creator preview](https://pbs.twimg.com/amplify_video_thumb/2105790058695454720/img/MReBRD4e5h2sbSlp.jpg)](https://x.com/kirillvserditov/status/2105790255144063241)
 
-[Original source](https://x.com/kirillvserditov/status/2105790255144063241)
+[Original source](https://x.com/kirillvserditov/status/2105790255144063241) · [Repository & setup](https://github.com/zycck/claude-mods)
 
 ### [Session Status Banner](https://ccmods.dev/mods/session-status-banner/)
 
