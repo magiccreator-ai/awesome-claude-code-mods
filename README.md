@@ -162,13 +162,13 @@ By strawhatsu4 · **Demo only** · Reviewed 2026-10-02
 
 ### [Blast Radius](https://ccmods.dev/mods/blast-radius/)
 
-See what a risky command will change before it runs.
+Install Blast Radius for Claude Code to preview supported risky Bash commands, then choose Proceed or Cancel. Learn its display requirements and limits.
 
 Pause supported destructive shell commands and review the affected files or commits before choosing Proceed or Cancel. The sample demonstrates an interactive tool-call guard.
 
 Blast Radius may help when a task involves deleting generated files, resetting work, cleaning a repository, or applying another supported command with a large impact. The preview gives you another opportunity to inspect the target. It is most useful when you also understand the command and the mod’s documented pattern-matching limits.
 
-By Claude Code DevRel · **Public source** · Reviewed 2026-10-02
+By Claude Code DevRel · **Public source** · Reviewed 2026-10-13
 
 [Original source](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/blast-radius) · [Repository & setup](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/blast-radius)
 
