@@ -50,13 +50,13 @@ By Claude Code DevRel · **Public source** · Reviewed 2026-10-07
 
 ### [Replay Theater](https://ccmods.dev/mods/replay-theater/)
 
-Walk through Claude’s edits, one diff at a time.
+Install Replay Theater for Claude Code to review the last turn’s edit attempts, one diff at a time. Learn /replay controls and session-history limits.
 
-Review the file edits captured in the last turn in a pane with previous and next controls. It offers a small replay interface rather than a single large diff.
+Replay Theater is a source-published playground sample that records Edit, Write and MultiEdit calls, then lets you inspect them after a turn. It observes those calls without blocking or changing them. Its timeline records attempts, including edits that fail or are denied.
 
 Replay Theater may be useful after a multi-step coding task when the final diff does not explain the order in which changes were attempted. Stepping through captured edit events can help you reconstruct the session. Keep that event history separate from evidence that every edit succeeded or was committed.
 
-By Claude Code DevRel · **Public source** · Reviewed 2026-10-02
+By Claude Code DevRel · **Public source** · Reviewed 2026-10-14
 
 [Original source](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/replay-theater) · [Repository & setup](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/replay-theater)
 
