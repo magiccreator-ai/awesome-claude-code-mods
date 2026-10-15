@@ -18,6 +18,8 @@ Choosing an extension: [Mods vs plugins, skills, hooks, and MCP](https://ccmods.
 
 Play while Claude works: [Claude Code game mods — Doom and Server Farm](https://ccmods.dev/categories/games/). Choose an active multiplayer break or an idle simulation, with creator-specific setup and display requirements.
 
+Mod author update: [Claude Code 2.1.300 — virtualText, prompt.change, and agent views](https://ccmods.dev/guide/claude-code-2-1-300-mods/). Distinguish display hints from model instructions and review version-specific behavior before upgrading. Based on official release notes; no execution tests.
+
 ## Contents
 
 - [Context](#context)
