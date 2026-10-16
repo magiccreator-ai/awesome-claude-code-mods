@@ -104,6 +104,20 @@ By Victor Paycro · **Demo only** · Reviewed 2026-10-02
 
 [Original source](https://x.com/victorpaycro/status/2105880187544150099)
 
+### [xcode-mods: SwiftUI previews in Claude Code](https://ccmods.dev/mods/xcode-mods/)
+
+Set up Artem Novichkov’s xcode-mods for SwiftUI previews, builds and tests in Claude Code. Check Xcode MCP requirements and missing-preview fixes.
+
+Artem Novichkov’s plugin connects Claude Code’s interface to the headless Xcode MCP server. It adds a build/run/test pane, a SwiftUI Canvas and a toolbar showing the selected scheme, destination and activity. The author documents results appearing for both your actions and Claude’s Xcode tool calls.
+
+Consider this mod when editing a SwiftUI project and wanting preview snapshots beside the conversation. It may help you inspect a view between changes while keeping build and test results nearby. A preview is one view of the UI; our recommendation is to keep normal app interaction and device testing in your workflow.
+
+By Artem Novichkov · **Public source** · Reviewed 2026-10-16
+
+[![xcode-mods: SwiftUI previews in Claude Code creator preview](https://raw.githubusercontent.com/artemnovichkov/xcode-mods/00450b399c7260a5b08c64f950d1b69e35341ea4/docs/media/hero.png)](https://github.com/artemnovichkov/xcode-mods)
+
+[Original source](https://github.com/artemnovichkov/xcode-mods) · [Repository & setup](https://github.com/artemnovichkov/xcode-mods)
+
 ## Interface
 
 ### [Claude Ambient](https://ccmods.dev/mods/claude-ambient/)
