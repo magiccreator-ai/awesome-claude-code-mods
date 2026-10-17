@@ -12,7 +12,7 @@ New to mods? The [installation guide](https://ccmods.dev/guide/) covers marketpl
 
 简体中文：[Claude Code Mods 安装与故障排查](https://ccmods.dev/zh/guide/) — 终端与 Desktop 版本检查、安装前能力校验、市场安装、加载确认与界面排障。其余目录内容仍为英语。
 
-Built-in feature: [You Should Know — enable, disable, and availability](https://ccmods.dev/guide/you-should-know/). A source-linked guide to the optional side-agent mod, including first-party session/telemetry conditions and the distinction from installed community mods.
+Built-in feature: [You Should Know — enable, disable, and availability](https://ccmods.dev/guide/you-should-know/). Find the Built-in entry, diagnose the “not installed in this project” error, and understand background check costs. Includes direct-connection/feature-flag requirements and why plugin lists omit built-in mods.
 
 Choosing an extension: [Mods vs plugins, skills, hooks, and MCP](https://ccmods.dev/guide/mods-vs-plugins-skills-hooks/). Compare custom UI, reusable procedures, lifecycle automation, external tools, and plugin packaging through concrete scenarios.
 
