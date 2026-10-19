@@ -118,6 +118,20 @@ By Artem Novichkov · **Public source** · Reviewed 2026-10-16
 
 [Original source](https://github.com/artemnovichkov/xcode-mods) · [Repository & setup](https://github.com/artemnovichkov/xcode-mods)
 
+### [Shot](https://ccmods.dev/mods/shot/)
+
+Use Shot with Claude Code for macOS screenshots, text-targeted annotations and live screen pointers. Includes installation, permissions and screenshot-history limits.
+
+Dave Kiss’s Shot combines a macOS screenshot MCP server, a skill, a /shot command and a history pane in one Claude Code plugin. The author documents background window capture, image annotations, temporary pointers on the live screen, image diffs and recording storyboards. These are source-documented capabilities, not CC Mods test results.
+
+Shot may help when you want Claude to see a UI bug, mark the relevant control in a screenshot, or point out the next step in an app without repeatedly capturing and attaching images yourself. Choose a saved annotation for a bug report and a temporary live pointer for a walkthrough. For Xcode-rendered SwiftUI previews rather than screen capture, compare xcode-mods.
+
+By Dave Kiss · **Public source** · Reviewed 2026-10-19
+
+[![Shot creator preview](https://raw.githubusercontent.com/davekiss/shot/617bd790217edeb9e237a619bae4ad0d7c37cd50/assets/examples/arrow-label.png)](https://github.com/davekiss/shot)
+
+[Original source](https://github.com/davekiss/shot) · [Repository & setup](https://github.com/davekiss/shot)
+
 ## Interface
 
 ### [Claude Ambient](https://ccmods.dev/mods/claude-ambient/)
