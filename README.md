@@ -8,7 +8,7 @@ Public source means a repository and author setup instructions are linked. Demo 
 
 ## Install and troubleshoot
 
-New to mods? The [installation guide](https://ccmods.dev/guide/) covers marketplace setup and an official local sample. Already installed one? Use the [mod-not-working checklist](https://ccmods.dev/guide/#troubleshooting) to separate reload, version, display-surface, and loading problems. Before loading one, read the [pre-install capability checklist](https://ccmods.dev/guide/#before-install): validator output, Bash sandbox boundaries, and disable controls. Examples follow original documentation; collected mod code has not been execution-tested.
+New to mods? The [installation guide](https://ccmods.dev/guide/) covers marketplace setup and an official local sample. Already installed one? Use the [mod-not-working checklist](https://ccmods.dev/guide/#troubleshooting) to separate reload, version, display-surface, and loading problems. Before loading one, read the [pre-install capability checklist](https://ccmods.dev/guide/#before-install): validator output, Bash sandbox boundaries, and disable controls. The display checklist distinguishes VS Code extension 2.1.299+ with feature flags from 2.1.304+ without them, including gateway and telemetry-disabled sessions, and explains failed reloads that keep the previous version active. Examples follow original documentation; collected mod code has not been execution-tested.
 
 简体中文：[Claude Code Mods 安装与故障排查](https://ccmods.dev/zh/guide/) — 终端与 Desktop 版本检查、安装前能力校验、市场安装、加载确认与界面排障。其余目录内容仍为英语。
 
