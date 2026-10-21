@@ -136,13 +136,13 @@ By Dave Kiss · **Public source** · Reviewed 2026-10-19
 
 ### [Claude Ambient](https://ccmods.dev/mods/claude-ambient/)
 
-A little world above your prompt, with ambient sound.
+Install Claude Ambient for eleven reactive scenes above your Claude Code prompt. Learn scene controls, macOS sound setup and marketplace choices.
 
-Choose an aquarium, a fireplace, a train, a lofi desk, or another ambient scene. The author describes eleven scenes whose visuals respond to Claude’s work.
+Barış Demirhan’s ambient mod turns Claude Code tool activity into an aquarium, bonsai, city, stars, weather, train, Game of Life, pulse monitor, fireplace, digital rain or lofi desk. The author describes visuals driven by tool-call types, failures and turn boundaries, with optional synthesized sound.
 
-Claude Ambient suits sessions where you want a more personal terminal atmosphere while Claude works. Browse its scenes and choose one that fits your attention level; an animated background is a preference, rather than a task requirement. Follow the author’s instructions for scene controls and any audio configuration.
+Claude Ambient fits a long coding session when you want a visual rhythm tied to tool activity rather than another task dashboard. Start with a scene such as aquarium or lofi, leave sound off if you prefer quiet, and show the band only while Claude works to reclaim space between turns. Its weather scene is different from Token Weather’s context monitor: real-world weather is optional and makes external requests.
 
-By Barış Demirhan · **Public source** · Reviewed 2026-10-02
+By Barış Demirhan · **Public source** · Reviewed 2026-10-21
 
 [![Claude Ambient creator preview](https://pbs.twimg.com/amplify_video_thumb/2105820098954960896/img/DdADVtJeEWFq6sc4.jpg)](https://x.com/baris_demirhan/status/2105820153216712850)
 
